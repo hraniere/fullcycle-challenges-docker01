@@ -1,7 +1,7 @@
 # fullcycle-challenges-docker01
 [![FullCycle by Code.Education](https://portal.code.education/bundles/sonbase/img/lms/LogoFCCode.png?32)](https://code.education)
 
-**This repository is part of the challenges of the course FullCycle 2 by [Code.Education](https://code.education)**
+**This repository is part of the challenges from the course FullCycle 2 by [Code.Education](https://code.education)**
 
 ## Docker Challenge #01 - Go
 
