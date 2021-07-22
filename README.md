@@ -11,6 +11,10 @@
 
 1. The final image must be less than 2MB =)
 
+### Challenge Solution
+
+The final image was created FROM scratch, using multistage building, resulting in an image with 1.36MB
+
 To run the image use the following command:
 ```sh
 docker run hraniere/codeeducation
